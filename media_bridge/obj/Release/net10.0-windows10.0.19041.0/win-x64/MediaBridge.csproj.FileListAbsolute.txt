@@ -1,0 +1,17 @@
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.exe
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.deps.json
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.runtimeconfig.json
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.dll
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.pdb
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\user\dynamic_island\media_bridge\bin\Release\net10.0-windows10.0.19041.0\win-x64\WinRT.Runtime.dll
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\MediaBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\MediaBridge.AssemblyInfoInputs.cache
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\MediaBridge.AssemblyInfo.cs
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\MediaBridge.csproj.CoreCompileInputs.cache
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\MediaBri.FFCD8952.Up2Date
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.dll
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\refint\media_bridge.dll
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\media_bridge.pdb
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\MediaBridge.genruntimeconfig.cache
+C:\Users\user\dynamic_island\media_bridge\obj\Release\net10.0-windows10.0.19041.0\win-x64\ref\media_bridge.dll

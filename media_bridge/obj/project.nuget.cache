@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMGFpWvgM6w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\dynamic_island\\media_bridge\\MediaBridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

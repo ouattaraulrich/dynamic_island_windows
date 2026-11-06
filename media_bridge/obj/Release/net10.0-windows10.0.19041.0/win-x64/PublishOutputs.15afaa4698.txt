@@ -1,0 +1,7 @@
+C:\Users\user\dynamic_island\media_bridge\out\media_bridge.exe
+C:\Users\user\dynamic_island\media_bridge\out\media_bridge.dll
+C:\Users\user\dynamic_island\media_bridge\out\media_bridge.deps.json
+C:\Users\user\dynamic_island\media_bridge\out\media_bridge.runtimeconfig.json
+C:\Users\user\dynamic_island\media_bridge\out\media_bridge.pdb
+C:\Users\user\dynamic_island\media_bridge\out\Microsoft.Windows.SDK.NET.dll
+C:\Users\user\dynamic_island\media_bridge\out\WinRT.Runtime.dll
